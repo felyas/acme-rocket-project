@@ -1,0 +1,2 @@
+unicode-table.com: html entities
+mojipedia.org: emojis
